@@ -101,3 +101,8 @@ Useful activities include:
 Odoo user adoption improves when training is connected to real business processes rather than individual software features.
 
 Role-based training, hands-on practice, clear documentation, and post-go-live support can help users become comfortable with Odoo and follow consistent workflows.
+
+
+## Odoo Development Resources
+
+Businesses that need custom modules, workflow customization, or additional Odoo functionality can explore [Odoo developer services from Odoobots](https://odoobots.com/hire-odoo-developer/).
